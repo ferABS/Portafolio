@@ -1,16 +1,16 @@
 export const metaData = {
   baseUrl: "https://nextfolio-template.vercel.app/",
-  title: "Nextfolio",
-  name: "Sirius",
+  title: "Fernando Bastias",
+  name: "Fernando Bastías Saavedra",
   ogImage: "/opengraph-image.png",
   description:
-    "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+    "Portafolio de Fernando Bastias usando la plantilla Nextfolio de Next.js",
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/1tssirius",
-  github: "https://github.com/1msirius/Nextfolio",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  itchio: "https://ferabs.itch.io",
+  github: "https://github.com/ferABS",
+  instagram: "https://www.instagram.com/fernando.abs/",
+  linkedin: "https://www.linkedin.com/in/fernando-bastias/",
+  email: "mailto:fernandobastias103@gmail.com",
 };

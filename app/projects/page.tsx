@@ -3,14 +3,14 @@ import type { Metadata } from "next";
 import { projects } from "./project-data";
 
 export const metadata: Metadata = {
-  title: "Projects",
-  description: "Nextfolio Projects",
+  title: "Proyectos",
+  description: "Proyectos en los que ha trabajado Fernando Bastías",
 };
 
 export default function Projects() {
   return (
     <section>
-      <h1 className="mb-8 text-2xl font-medium">Projects</h1>
+      <h1 className="mb-8 text-2xl font-medium">Proyectos</h1>
       <div>
         {projects.map((project, index) => (
           <Link
